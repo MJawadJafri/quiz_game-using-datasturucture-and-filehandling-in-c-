@@ -1,0 +1,9 @@
+_____________________________________________________________________
+
+			Quiz Game
+this game design to check your iq level and improve it
+this project run on any cpp compiler but i prefer visual studio compiler
+
+this project design using
+data structure
+file handling concept in cpp
